@@ -1,2 +1,2 @@
 # 0x00. Fix my code
-<img src="https://i.redd.it/344jzhrq2qe31.jpg">
+<img src="https://aprogrammerlife.com/images/pictuers/me_trying_to_fix_bugs_in_my_code.jpg">
